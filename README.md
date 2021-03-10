@@ -1,4 +1,8 @@
-# vue-moviebase
+# vue-tvshows
+
+##App built using Vue JS v2, to show list of tv shows in US and provide search feature where one can search for tv shows they want.
+## Using Vuex for state management and Vue Router for routing.
+## Tv Shows information obtained from https://www.tvmaze.com/api
 
 ## Project setup
 ```
@@ -19,6 +23,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

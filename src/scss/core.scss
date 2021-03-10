@@ -1,0 +1,16 @@
+:root {
+  --black: #000;
+  --white: #FFF;
+  --lightblack: #111;
+  --blue: #06F;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --black: #FFF;
+    --white: #000;
+    --lightblack: #EEE;
+    --blue: #06F;
+  }
+
+}
