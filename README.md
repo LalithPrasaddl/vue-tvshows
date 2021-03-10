@@ -4,6 +4,10 @@
 ### Using Vuex for state management and Vue Router for routing.
 ### Tv Shows information obtained from https://www.tvmaze.com/api
 
+
+![alt App Preview](https://github.com/LalithPrasaddl/vue-tvshows/blob/master/src/images/app_view.png?raw=true)
+
+
 ## Project setup
 ```
 yarn install
